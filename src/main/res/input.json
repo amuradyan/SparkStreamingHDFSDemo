@@ -1,1554 +1,304 @@
-[
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "close",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "sales",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    },
-    {
-        "type": "open",
-        "value": "val2"
-    }
-]
+{
+    "entities": [
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        },
+        {
+            "tt": 1,
+            "vv": "v1"
+        },
+        {
+            "tt": 2,
+            "vv": "v2"
+        },
+        {
+            "tt": 3,
+            "vv": "v3"
+        }
+    ]
+}

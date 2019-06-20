@@ -12,3 +12,7 @@ build
 bin/
 gradle/
 target/
+.idea/
+*.iml*
+*.log
+misc*/
